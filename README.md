@@ -29,6 +29,8 @@ If You'd like to see a more customised profile, You can visit this site [here](h
   - PC game cheats
   - Mobile game cheats
   - PlayStation 3, 4 & 5 cheats and homebrew
+- Music production
+  - High quality tracks, 20+ genres/sub-genres
 
 <br>  
 
@@ -37,6 +39,7 @@ If You'd like to see a more customised profile, You can visit this site [here](h
 - Website development (£10 - £100+)
 - Custom app development (£25 - 5K+)
 - Cheats development (£5 - £50+)
+- Custom track (£30 - 1K+)
 
 <br>  
 
@@ -77,6 +80,26 @@ Click on the hyperlinked text to view the specifications of the devices I use!
   - Operating System: DualBoot (WIN11 Pro 23H2 & Kali Linux)
   - Keyboard: RK Royal Kludge RGB
   - Mouse: VersionTech RGB
+
+<br>  
+
+### 🌎 My Favourite Software, Apps & Games
+- `Android app` Polish Editor Pro
+- `Android app` CapCut
+- `Windows app` Adobe After Effects
+- `Windows app` Adobe PhotoShop
+- `Android app` Avee Player
+- `Android app` X-Plore File Manager
+- `Android game` Clash Of Clans
+- `Android game` Bejeweled Blitz
+- `Android app` GroovePad
+- `Android app` DJ Mix Pads 2
+- `Android app` SnapChat
+- `Android app` Instagram
+- `Android app` TikTok
+- `Android app` Shuttle VPN
+- `Android app` Shazam
+- `Android app` Device Info
 
 <br>  
 
