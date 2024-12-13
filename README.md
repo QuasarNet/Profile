@@ -41,22 +41,23 @@ If You'd like to see a more customised profile, You can visit this site [here](h
 <br>  
 
 ### 💻 Devices I Own & Use
+Click on the hyperlinked text to view the specifications of the devices I use!  
 - Eero WiFi6 router (5GHZ) `Everyday use`
 - TP Link network switch `Everyday use`
-- Samsung Galaxy S6 Edge `Used for testing: Android based apps & custom ROM's`
-- Samsung Galaxy S10 `Used for testing: Android based apps & custom ROM's`
-- Samsung Galaxy S20 FE 5G `Everyday use`
-- Samsung Galaxy S21+ `Used for testing: Android based apps & custom ROM's`
-- Samsung Galaxy S23 `Used for testing: Android based apps & custom ROM's`
-- Samsung Galaxy S24 Ultra `Everyday use`
-- Samsung Galaxy Tab A7 `Used for testing: Android based apps`
-- Samsung Galaxy Tab A8 `Used for testing: Android based apps`
-- Huawei P7 `Used for testing: Android based apps targeting older systems`
-- Huawei P8 `Used for testing: Android based apps targeting older systems`
-- Huawei P30 Pro `Everyday use`
-- Google Pixel 8 `Everyday use & testing: Android based apps`
-- Sony Vaio laptop (VPCEB4E1E) `Everyday use & testing: projects targeted at older systems`
-- LG Gram 14 laptop `Everyday use`
+- [Samsung Galaxy S6 Edge](https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php) `Used for testing: Android based apps & custom ROM's`
+- [Samsung Galaxy S10](https://www.gsmarena.com/samsung_galaxy_s10-9536.php) `Used for testing: Android based apps & custom ROM's`
+- [Samsung Galaxy S20 FE 5G](https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php) `Everyday use`
+- [Samsung Galaxy S21+ 5G](https://www.gsmarena.com/samsung_galaxy_s21+_5g-10625.php) `Used for testing: Android based apps & custom ROM's`
+- [Samsung Galaxy S23](https://www.gsmarena.com/samsung_galaxy_s23-12082.php) `Used for testing: Android based apps & custom ROM's`
+- [Samsung Galaxy S24 Ultra](https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php) `Everyday use`
+- [Samsung Galaxy Tab A7](https://www.gsmarena.com/samsung_galaxy_tab_a7_10_4_(2020)-10411.php) `Used for testing: Android based apps`
+- [Samsung Galaxy Tab A8](https://www.gsmarena.com/samsung_galaxy_tab_a8_10_5_(2021)-11265.php) `Used for testing: Android based apps`
+- [Huawei Ascend P7](https://www.gsmarena.com/huawei_ascend_p7-6124.php) `Used for testing: Android based apps targeting older systems`
+- [Huawei P8](https://www.gsmarena.com/huawei_p8-7006.php) `Used for testing: Android based apps targeting older systems`
+- [Huawei P30 Pro](https://www.gsmarena.com/huawei_p30_pro-9635.php) `Everyday use`
+- [Google Pixel 8](https://www.gsmarena.com/google_pixel_8-12546.php) `Everyday use & testing: Android based apps`
+- [Sony Vaio laptop (VPCEB4E1E)](https://www.sony.co.uk/electronics/support/laptop-pc-vpc-series/vpceb4e1e/specifications) `Everyday use & testing: projects targeted at older systems`
+- [LG Gram 14 laptop](https://www.lg.com/us/laptops/lg-14z90p-k.aas7u1-ultra-slim-laptop) `Everyday use`
 - Samsung QE1D smart 55" TV `Everyday use`
 - Amazon FireStick `Everyday use`
 - PlayStation 3 (Fat) `Used for testing: firmwares, homebrew & cheats`
