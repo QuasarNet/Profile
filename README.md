@@ -67,15 +67,15 @@ If You'd like to see a more customised profile, You can visit this site [here](h
 - PlayStation 5 (Gen2) `Everyday use`
 
 - Custom PC `Everyday use`
-  - GigaByte B650 motherboard
-  - AMD Ryzen 9 5950X CPU
-  - RTX 4090 GPU
-  - 1TB M.2, X5 10TB SSD drives
-  - 128GB Kingston Fury Beast RGB RAM
-  - NZXT Kraken 360 RGB cooling
-  - DualBoot OS (Windows 11 Pro 23H2 & Kali Linux)
-  - RK Royal Kludge RGB keyboard
-  - VersionTech RGB mouse
+  - Motherboard: GigaByte B650
+  - CPU: AMD Ryzen 9 5950X
+  - GPU: RTX 4090
+  - Drives: 1TB M.2, X5 10TB SSD
+  - RAM: 128GB Kingston Fury Beast RGB
+  - Cooling: NZXT Kraken 360 RGB
+  - Operating System: DualBoot (WIN11 Pro 23H2 & Kali Linux)
+  - Keyboard: RK Royal Kludge RGB
+  - Mouse: VersionTech RGB
 
 <br>  
 
