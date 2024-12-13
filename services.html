@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Under Construction</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #141414;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            color: white;
+        }
+
+        .rounded-body {
+            background-color: #1e1e1e;
+            border-radius: 15px;
+            width: 90%;
+            max-width: 400px;
+            padding: 20px;
+            text-align: center;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+        }
+
+        .rounded-body img {
+            max-width: 15%;
+            border-radius: 10px;
+            margin-bottom: -8px;
+            position: relative;
+            top: -55px;
+        }
+
+        h4 {
+            margin: 10px 0 5px;
+            font-size: 1.5em;
+        }
+
+        p {
+            margin: 0 0 20px;
+            font-size: 1em;
+            color: #aaa;
+        }
+
+        .button-container {
+            display: flex;
+            justify-content: space-between;
+            gap: 15px;
+        }
+
+        .button {
+            display: inline-block;
+            background-color: #2e2e2e;
+            color: white;
+            border: none;
+            border-radius: 10px;
+            padding: 10px 15px;
+            text-decoration: none;
+            font-size: 1em;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            cursor: pointer;
+            width: 45%;
+            text-align: center;
+        }
+
+        .button:hover {
+            background-color: #444444;
+            transform: translateY(-3px);
+        }
+    </style>
+</head>
+<body>
+    <div class="rounded-body">
+        <img src="assets/icons/under-construction.png" alt="Image" id="centered-image">
+        <h4>Under construction!</h4>
+        <p>The website is still being worked on, please come back soon.<br>
+           <br>
+           Feel free to check out the GitHub repo or My YouTube channel in the meantime!</p>
+        <div class="button-container">
+            <a href="https://github.com/quasarnet/Profile" class="button" target="_blank">GitHub</a>
+            <a href="https://youtube.com/quasar.developer" class="button" target="_blank">YouTube</a>
+        </div>
+    </div>
+    <script>
+        document.getElementById("centered-image").style.marginTop = "10px";
+    </script>
+</body>
+</html>
