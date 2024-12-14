@@ -13,35 +13,35 @@ Hey there and welcome to My GitHub profile! I've compiled detailed information a
 
 ### 🧩 My Skills
 - Web development
-  Building full stack websites that are feature rich and detailed.  
+  - Building full stack websites that are feature rich and detailed.  
 - Application development
-  Building and launching fully functional, advanced and modern applications.  
+  - Building and launching fully functional, advanced and modern applications.  
 - Game development
-  Building simple or full-on games for platforms such as Windows and PlayStation 3.  
+  - Building simple or full-on games for platforms such as Windows and PlayStation 3.  
 - Front & back end development
-  Developing frameworks, services, requirement packages and libraries as well as front end panels and portals.  
+  - Developing frameworks, services, requirement packages and libraries as well as front end panels and portals.  
 - Cheats & homebrew development
-  Building modern cheats and cheating software for Windows and PlayStation 3 based games.  
+  - Building modern cheats and cheating software for Windows and PlayStation 3 based games.  
 - Exploits & bug research / bounty
-  Researching bugs and vulnerabilities in websites, services and applications across several platforms.  
+  - Researching bugs and vulnerabilities in websites, services and applications across several platforms.  
 - Design & editing
-  Designing, creating and editing media such as custom imagery as well as developing animations.  
+  - Designing, creating and editing media such as custom imagery as well as developing animations.  
 - Music production
-  Creating high quality audio productions from scratch or using samples.  
+  - Creating high quality audio productions from scratch or using samples.  
 
 <br>  
 
 ### 🔔 My Services
 - Custom website
-  Modern website in a simple or advanced form `ranging from £50 - £4, 000+`  
+  - Modern website in a simple or advanced form `ranging from £50 - £4, 000+`  
 - Custom application
-  Multi function applications for Windows or Android `ranging from £20 - £800+`  
+  - Multi function applications for Windows or Android `ranging from £20 - £800+`  
 - Cheats
-  Advanced cheats and cheating software for games on Windows, Android or PlayStation 3 and 4 `ranging from £5 - £350+`  
+  - Advanced cheats and cheating software for games on Windows, Android or PlayStation 3 and 4 `ranging from £5 - £350+`  
 - Social media marketing
-  Fully customisable online presence growth plans and subscriptions `ranging from £0.05 - £2, 000+`  
+  - Fully customisable online presence growth plans and subscriptions `ranging from £0.05 - £2, 000+`  
 - Custom music
-  A short or full song in any genre `ranging from £100 - £300+`  
+  - A short or full song in any genre `ranging from £100 - £300+`  
 
 <br>  
 
