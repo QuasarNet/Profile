@@ -3,13 +3,13 @@ Hey there and welcome to My GitHub profile! I've compiled detailed information a
 
 If You'd like to look at a more appealing profile, You can visit My website [here](https://quasarnet.github.io/Profile).  
 
-- Age: 21  
-- D.O.B: 28/08/2003  
-- Gender: Male  
-- Sexuality: Straight  
-- Relationship status: Single  
-- Residence: England  
-- Employment status: Self employed  
+- 🔢 Age: 21  
+- 📆 D.O.B: 28/08/2003  
+- 👨 Gender: Male  
+- 🏳️ Sexuality: Straight  
+- 👍 Relationship status: Single  
+- 🌐 Residence: England  
+- 💼 Employment status: Self employed  
 
 <br>  
 
