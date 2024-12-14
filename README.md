@@ -1,6 +1,8 @@
 ### 👋 Introduction
 Hey there and welcome to My GitHub profile! I've compiled detailed information about Me, what I can do and what I use! It's important to have an online portfoilio of sorts, this helps with describing who You are as well as building an online presence.  
 
+If You'd like to look at a more appealing profile, You can visit My website [here](https://quasarnet.github.io/Profile).  
+
 - Age: 21  
 - D.O.B: 28/08/2003  
 - Gender: Male  
